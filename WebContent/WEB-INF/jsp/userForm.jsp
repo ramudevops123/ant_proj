@@ -31,7 +31,7 @@
 				<form:option value="1" label="proddatur" />
 				<form:option value="2" label="SEC" />
 				<form:option value="3" label="VIJ" />
-				<form:option value="4" label="GNT" />
+				<form:option value="4" label="kamalapuram" />
 			</form:select></td>
 		</tr>
 		<tr>
