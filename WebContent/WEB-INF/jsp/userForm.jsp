@@ -28,7 +28,7 @@
 			<td>Country :</td>
 			<td><form:select path="country">
 				<form:option value="0" label="Select" />
-				<form:option value="1" label="gachibowli" />
+				<form:option value="1" label="kamalapuram" />
 				<form:option value="2" label="kadapa" />
 				<form:option value="3" label="hariii" />
 				<form:option value="4" label="kamalapuram" />
